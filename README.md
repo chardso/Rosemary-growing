@@ -30,3 +30,11 @@ FLOWER.
 The flowers are small and pale blue to deep blue.
 
 Much of the volatile essential oils reside in their calyces.
+
+CLIMATIC REQUIREMENTS.
+
+1.temperature
+ 
+ It grows well at day temperature of 20 to 25°c
+ 
+ It is very adaptable and is grown in almost all regions.
