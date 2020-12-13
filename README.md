@@ -38,3 +38,11 @@ CLIMATIC REQUIREMENTS.
  It grows well at day temperature of 20 to 25°c
  
  It is very adaptable and is grown in almost all regions.
+
+2.Rainfall
+
+ Mostly grown under dryland conditions.
+ 
+ When under irrigation care should be taken not to over irrigate.
+ 
+ In wetter areas rosemary will not do as well unless ridged to allow excess water to drain away.
