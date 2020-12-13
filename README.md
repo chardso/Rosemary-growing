@@ -46,3 +46,11 @@ CLIMATIC REQUIREMENTS.
  When under irrigation care should be taken not to over irrigate.
  
  In wetter areas rosemary will not do as well unless ridged to allow excess water to drain away.
+ 
+ SOIL REQUIREMENTS.
+
+ Well drained sandy to clay loam soil.
+ 
+ Soil pH range of 5,5 to 8,0 is required.
+ 
+ Aclay percentage of 30% maximum can be tolerated by the plant.
