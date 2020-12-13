@@ -13,3 +13,20 @@ It's of Mediterranean origin.
 Internationally the leading regions of rosemary production are the Mediterranean countries,Northern Africa,England,Mexico and the USA.
 
 Major production areas in south Africa include,maluti mountains in the eastern free state,Gau-teng,Limpopo,Northwest mpumalanga,eastern and western cape provinces.
+
+PLANT DESCRIPTION.
+
+Rosemary is an evergreen plant,shrubby herb that grows to aheight of 1 to 2m
+With a unique a romantic odour and acamphoraceous undertone.
+
+The erect stems are divided into numerous long,slender branches that have ash coloured and scaly bark.
+
+LEAVES.
+
+The branches bear opposite, leathery thick leaves which are lustrous,linear,dark green above and downy white below.
+
+FLOWER.
+
+The flowers are small and pale blue to deep blue.
+
+Much of the volatile essential oils reside in their calyces.
