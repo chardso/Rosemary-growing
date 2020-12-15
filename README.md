@@ -54,3 +54,17 @@ CLIMATIC REQUIREMENTS.
  Soil pH range of 5,5 to 8,0 is required.
  
  Aclay percentage of 30% maximum can be tolerated by the plant.
+ 
+ CULTIVATION PRACTICES.
+
+1.Propagation.
+  
+  Rosemary is propagated by means of:
+
+-seeds.
+
+-cuttings.
+
+-layering or division of roots.
+
+ Seeds germinate very slowly.as there is always aproblem of cross pollination, growing true-to-type plants from seeds is not a good practice unless controlled properly.
