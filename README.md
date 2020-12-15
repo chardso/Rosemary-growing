@@ -81,3 +81,23 @@ CLIMATIC REQUIREMENTS.
  Rooting hormones will assist in root formation within 2 to 4 weeks.
  
  A mist bed with a heated floor will give the best results.
+
+ Layering maybe accomplished readily in summer by pegging some of the lower branches under a little sand soil.
+ 
+ After roots have formed the plants can then be severed frm the parent plant.
+
+ 2.Soil preparation.
+   
+   Rosemary doesn't grow well in waterlogged or high clay soils.
+   
+   If the clay percentage of the soil is too high,application of gravel stones with a diameter of 1 to 2.5cm can be made that can be worked into the soil before planting.
+   
+   This will assist in aeration of the roots.
+   
+   Other practices of incorporation of good compost will also be beneficial.
+   
+   Herbal and essential oil crops grown on natural soils yield products that are high quality and in demand globally.
+   
+   General soil preparation guidelines.
+
+   -take soil samples according to correct guidelines.
