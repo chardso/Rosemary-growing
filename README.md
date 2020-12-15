@@ -68,3 +68,16 @@ CLIMATIC REQUIREMENTS.
 -layering or division of roots.
 
  Seeds germinate very slowly.as there is always aproblem of cross pollination, growing true-to-type plants from seeds is not a good practice unless controlled properly.
+ 
+ 
+ Cuttings from actively growing stem tips are good way to propagate new plants efficiently,
+ 
+ Cuttings of 10 to 15cm length are taken.
+ 
+ The bottom two thirds are stripped from leaves.
+ 
+ The cutting is inserted in a proper growing medium.,half two thirds of length.
+ 
+ Rooting hormones will assist in root formation within 2 to 4 weeks.
+ 
+ A mist bed with a heated floor will give the best results.
