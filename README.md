@@ -101,3 +101,19 @@ CLIMATIC REQUIREMENTS.
    General soil preparation guidelines.
 
    -take soil samples according to correct guidelines.
+  
+   -have the soil analysed at a laboratory that will be able to check for mineral deficiencies and excesses,organic status and carbon ratios.
+  
+   -A soil analysis will guide the producer in correcting the nutritional status of the soil in order to provide the crop with optimum growing conditions such as a balanced mineral status and correct pH.
+  
+   -Soil fertility levels have to be with in acceptable ranges before a soil building programme is started.
+  
+   -Correct the soil pH according to analysis and soil type.
+   
+   -Fertiliser use has to be planned according to whether the crop will be grown inorganically or organically.
+ 
+   3.Planting
+   
+   -Soil preparation has to be done according to good cultivation practices.
+  
+   -Apply suitable soil preparation practices according to the farming operation.(rip,plough,disc,harrow,contour,etc)
