@@ -112,8 +112,8 @@ CLIMATIC REQUIREMENTS.
    
    -Fertiliser use has to be planned according to whether the crop will be grown inorganically or organically.
  
-   3.Planting
-   
    -Soil preparation has to be done according to good cultivation practices.
   
    -Apply suitable soil preparation practices according to the farming operation.(rip,plough,disc,harrow,contour,etc)
+ 
+   3.Planting.
