@@ -118,7 +118,7 @@ CLIMATIC REQUIREMENTS.
  
    3. Planting.
      
-    Slope
+     Slope
       
    -  Rosemary needs full sun.
     
