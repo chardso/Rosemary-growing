@@ -118,13 +118,13 @@ CLIMATIC REQUIREMENTS.
  
    3. Planting.
      
-      Slope
+    Slope
       
-    - Rosemary needs full sun.
+   -  Rosemary needs full sun.
     
-    - Rows should be orientated east west on the land if possible.
+   -  Rows should be orientated east west on the land if possible.
     
-    - And on sloped land planted on the warmer slopes facing north and west.
+   -  And on sloped land planted on the warmer slopes facing north and west.
       
       Planting density/spacing.
     
