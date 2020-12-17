@@ -117,3 +117,25 @@ CLIMATIC REQUIREMENTS.
   - Apply suitable soil preparation practices according to the farming operation.(rip,plough,disc,harrow,contour,etc)
  
    3. Planting.
+     
+      Slope
+      
+    - Rosemary needs full sun.
+    
+    - Rows should be orientated east west on the land if possible.
+    
+    - And on sloped land planted on the warmer slopes facing north and west.
+      
+      Planting density/spacing.
+    
+    - Field spacing has to be done according to farming method applied.
+    
+    - Seedbeds with a width of 1,2m and row space of 40 to 50cm are found effective with mechanised cutting.
+    
+    - plants are established at 25 to 50cm within the rows so that the soil is covered quickly.
+    
+    - A total of 50 to 60,000 plants per ha is the norm.
+      
+      Planting date.
+    
+    - The cutting can be prepared in the green house and be transplanted to the field in spring to midsummer.
