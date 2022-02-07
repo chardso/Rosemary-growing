@@ -14,32 +14,32 @@
 
  - Major production areas in south Africa include,maluti mountains in the eastern free state,Gau-teng,Limpopo,Northwest mpumalanga,eastern and western cape provinces.
 
-   PLANT DESCRIPTION.
+   # PLANT DESCRIPTION.
 
  - Rosemary is an evergreen plant,shrubby herb that grows to aheight of 1 to 2m
 With a unique a romantic odour and acamphoraceous undertone.
 
  - The erect stems are divided into numerous long,slender branches that have ash coloured and scaly bark.
 
-   LEAVES.
+   # LEAVES.
 
  - The branches bear opposite, leathery thick leaves which are lustrous,linear,dark green above and downy white below.
 
-   FLOWER.
+   # FLOWERS.
 
  - The flowers are small and pale blue to deep blue.
 
  - Much of the volatile essential oils reside in their calyces.
 
-CLIMATIC REQUIREMENTS.
+# CLIMATIC REQUIREMENTS.
 
-1. temperature
+ # temperature
  
  - It grows well at day temperature of 20 to 25°c
  
  - It is very adaptable and is grown in almost all regions.
 
-2. Rainfall
+ # Rainfall
 
  - Mostly grown under dryland conditions.
  
@@ -47,7 +47,7 @@ CLIMATIC REQUIREMENTS.
  
  - In wetter areas rosemary will not do as well unless ridged to allow excess water to drain away.
  
-   SOIL REQUIREMENTS.
+   # SOIL REQUIREMENTS.
 
  - Well drained sandy to clay loam soil.
  
@@ -55,9 +55,9 @@ CLIMATIC REQUIREMENTS.
  
  - Aclay percentage of 30% maximum can be tolerated by the plant.
  
-   CULTIVATION PRACTICES.
+   # CULTIVATION PRACTICES.
 
-1. Propagation.
+ # Propagation.
   
   Rosemary is propagated by means of:
 
@@ -86,7 +86,7 @@ CLIMATIC REQUIREMENTS.
  
  - After roots have formed the plants can then be severed frm the parent plant.
 
- 2. Soil preparation.
+  # Soil preparation.
    
   -  Rosemary doesn't grow well in waterlogged or high clay soils.
    
@@ -116,9 +116,9 @@ CLIMATIC REQUIREMENTS.
   
   - Apply suitable soil preparation practices according to the farming operation.(rip,plough,disc,harrow,contour,etc)
  
-   3. Planting.
+    #Planting.
      
-     Slope
+     # Slope
       
    -  Rosemary needs full sun.
     
