@@ -138,4 +138,4 @@ With a unique a romantic odour and acamphoraceous undertone.
       
       # Planting date.
     
-    - The cutting can be prepared in the green house and be transplanted to the field in spring to midsummer.
+   - The cutting can be prepared in the green house and be transplanted to the field in spring to midsummer.
