@@ -128,13 +128,13 @@ With a unique a romantic odour and acamphoraceous undertone.
       
       # Planting density/spacing.
     
-    - Field spacing has to be done according to farming method applied.
+   - Field spacing has to be done according to farming method applied.
     
-    - Seedbeds with a width of 1,2m and row space of 40 to 50cm are found effective with mechanised cutting.
+   - Seedbeds with a width of 1,2m and row space of 40 to 50cm are found effective with mechanised cutting.
     
-    - plants are established at 25 to 50cm within the rows so that the soil is covered quickly.
+   - plants are established at 25 to 50cm within the rows so that the soil is covered quickly.
     
-    - A total of 50 to 60,000 plants per ha is the norm.
+   - A total of 50 to 60,000 plants per ha is the norm.
       
       # Planting date.
     
