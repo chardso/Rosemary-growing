@@ -126,7 +126,7 @@ With a unique a romantic odour and acamphoraceous undertone.
     
    -  And on sloped land planted on the warmer slopes facing north and west.
       
-      Planting density/spacing.
+      # Planting density/spacing.
     
     - Field spacing has to be done according to farming method applied.
     
@@ -136,6 +136,6 @@ With a unique a romantic odour and acamphoraceous undertone.
     
     - A total of 50 to 60,000 plants per ha is the norm.
       
-      Planting date.
+      # Planting date.
     
     - The cutting can be prepared in the green house and be transplanted to the field in spring to midsummer.
